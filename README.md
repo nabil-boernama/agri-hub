@@ -15,7 +15,7 @@ Dilengkapi dengan sistem **Proteksi Kegagalan (Failsafe)**, pemrosesan **Non-Blo
 
 ## 📸 Tampilan Sistem
 
-![Skematik Sistem Agri-Hub](skematik.png)
+![Skematik Sistem Agri-Hub](schematic.png)
 
 ---
 
