@@ -11,6 +11,8 @@
 
 Dilengkapi dengan sistem **Proteksi Kegagalan (Failsafe)**, pemrosesan **Non-Blocking (`millis()`)**, pemantauan lokal via **LCD 20x4 I2C**, dan telemetri data jarak jauh via **EMQX MQTT Broker**.
 
+![**Link Github AI Part**](https://github.com/gadicandra/pakcoy-brief)
+
 ---
 
 ## 📸 Tampilan Sistem
