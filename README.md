@@ -11,7 +11,7 @@
 
 Dilengkapi dengan sistem **Proteksi Kegagalan (Failsafe)**, pemrosesan **Non-Blocking (`millis()`)**, pemantauan lokal via **LCD 20x4 I2C**, dan telemetri data jarak jauh via **EMQX MQTT Broker**.
 
-*🔗 Repo IOT:*(https://github.com/gadicandra/pakcoy-brief)
+*🔗 Repo IOT:* https://github.com/gadicandra/pakcoy-brief
 
 ---
 
